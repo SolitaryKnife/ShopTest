@@ -1,0 +1,52 @@
+[
+  {
+    "name": "egg",
+    "title": "101 Recipes using Eggs",
+    "category": "tutorials",
+    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "image": "data/tutorials/egg.jpg",
+    "largeImage": "data/tutorials/egg.jpg"
+  },
+  {
+    "name": "poison",
+    "title": "Food Poisoning Prevention",
+    "category": "tutorials",
+    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "image": "data/tutorials/poison.jpg",
+    "largeImage": "data/tutorials/poison.jpg"
+  },
+  {
+    "name": "basic1",
+    "title": "Culinary Basics (Part 1)",
+    "category": "tutorials",
+    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "image": "data/tutorials/basics.jpg",
+    "largeImage": "data/tutorials/basics.jpg"
+  },
+  {
+    "name": "basic2",
+    "title": "Culinary Basics (Part 2)",
+    "category": "tutorials",
+    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "image": "data/tutorials/basics.jpg",
+    "largeImage": "data/tutorials/basics.jpg"
+  },
+  {
+    "name": "basic3",
+    "title": "Culinary Basics (Part 3)",
+    "category": "tutorials",
+    "price": 9.99,
+    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "image": "data/tutorials/basics.jpg",
+    "largeImage": "data/tutorials/basics.jpg"
+  },
+  {
+    "name": "basic4",
+    "title": "Culinary Basics (Part 4)",
+    "category": "tutorials",
+    "price": 99.99,
+    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "image": "data/tutorials/basics.jpg",
+    "largeImage": "data/tutorials/basics.jpg"
+  }
+]

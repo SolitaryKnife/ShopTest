@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "test/": true,
+        "bower_components/": true,
+    }
+}
