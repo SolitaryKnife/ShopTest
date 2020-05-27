@@ -99,10 +99,13 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       <dom-repeat items="[[_getListItems(category.items)]]" initial-count="4">
         <template>
           <li>
-            <shop-list-item onclick="alert('Under Maintenance: Can\'t access this feature for now')" item="[[item]]">
-            </shop-list-item>
+
             <!-- TODO -->
-            <!-- <a href$="[[_getItemHref(item)]]"><shop-list-item item="[[item]]"></shop-list-item></a> -->
+            <!-- <shop-list-item onclick="alert('Under Maintenance: Can\'t access this feature for now')" item="[[item]]">
+            </shop-list-item> -->
+            <a href$="[[_getItemHref(item)]]">
+              <shop-list-item item="[[item]]"></shop-list-item>
+            </a>
           </li>
         </template>
       </dom-repeat>
