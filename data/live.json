@@ -7,5 +7,16 @@
     "description": "We do not own the video<hr><br><iframe width='560' height='315' src='https://www.youtube.com/embed/xGHTj4y_bd8?start=35' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "image": "data/live/chef1.jpg",
     "largeImage": "data/live/chef1.jpg"
+  },
+  
+  {
+    "name": "chef2",
+    "title": "Chef Mario Morales",
+    "category": "live",
+    "price": 56.99,
+    "description": "We do not own the video<hr><br><iframe width='560' height='315' src='https://www.youtube.com/embed/xGHTj4y_bd8?start=35' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+    "image": "data/live/chef.png",
+    "largeImage": "data/live/chef.png"
   }
+
 ]
