@@ -1,11 +1,11 @@
 [
   {
-    "name": "egg",
-    "title": "101 Recipes using Eggs",
+    "name": "carbonara",
+    "title": "Carbonara",
     "category": "tutorials",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
-    "image": "data/tutorials/egg.jpg",
-    "largeImage": "data/tutorials/egg.jpg"
+    "description": "<iframe width='560' height='315' src='https://www.youtube.com/embed/qoHnwOHLiMk' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowflilscreen></iframe> <hr> + Traditional Carbonara shopping list: <ul> <li>1/2 pound guanciale (can substitute with pancetta)</li> <li>3 large eggs</li> <li>1 egg yolk</li> <li>4 ounces of cheese (Pecorino Romano or Parmigiano-Reggiano)</li> <li>Ground black pepper</li> <li>Spaghetti noodles</li> </ul> <br> + Modern Carbonara shopping list: <ul> <li>1/2 pound thick cut bacon</li> <li>Parmesan or Romano cheese</li> <li>3 large eggs </li> <li>1 egg yolk</li> <li>Ground black pepper</li> <li>Garlic</li> <li>1/3 cup starchy pasta water</li> <li>Bucatini noodles</li> </ul>",
+    "image": "data/tutorials/carbonara.jpg",
+    "largeImage": "data/tutorials/carbonara.jpg"
   },
   {
     "name": "poison",
