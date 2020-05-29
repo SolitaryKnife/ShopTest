@@ -1,55 +1,55 @@
 [
   {
-    "name": "food1",
+    "name": "water",
     "title": "Water",
     "category": "ingredients",
     "price": 99.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "It's expensive because it has tritium hydrogen isotope",
     "image": "data/ingredients/water.jpg",
     "largeImage": "data/ingredients/water.jpg"
   },
   {
-    "name": "food1",
+    "name": "truffles",
     "title": "Black Truffle Mushrooms",
     "category": "ingredients",
     "price": 99.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "Classy",
     "image": "data/ingredients/truffles.jpg",
     "largeImage": "data/ingredients/truffles.jpg"
   },
   {
-    "name": "food1",
+    "name": "chicken",
     "title": "Chicken",
     "category": "ingredients",
     "price": 99.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "The classic",
     "image": "data/ingredients/chicken.jpg",
     "largeImage": "data/ingredients/chicken.jpg"
   },
   {
-    "name": "food1",
+    "name": "anglerfish",
     "title": "Rare Deep-sea Anglerfish",
     "category": "ingredients",
     "price": 99.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "Is this even edible?",
     "image": "data/ingredients/fish.jpg",
     "largeImage": "data/ingredients/fish.jpg"
   },
   {
-    "name": "food1",
+    "name": "pork",
     "title": "Pork",
     "category": "ingredients",
     "price": 99.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "Good pet while alive, good food post-mortem",
     "image": "data/ingredients/pork.jpg",
     "largeImage": "data/ingredients/pork.jpg"
   },
   {
-    "name": "food1",
+    "name": "brain",
     "title": "Pig's Brain",
     "category": "ingredients",
     "price": 99.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "Brains are quite rich in cholesterol",
     "image": "data/ingredients/brain.jpg",
     "largeImage": "data/ingredients/brain.jpg"
   }

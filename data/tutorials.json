@@ -11,7 +11,7 @@
     "name": "poison",
     "title": "Food Poisoning Prevention",
     "category": "tutorials",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "Wash your hands",
     "image": "data/tutorials/poison.jpg",
     "largeImage": "data/tutorials/poison.jpg"
   },
@@ -19,7 +19,7 @@
     "name": "basic1",
     "title": "Culinary Basics (Part 1)",
     "category": "tutorials",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "<iframe width='560' height='315' src='https://www.youtube.com/embed/1AxLzMJIgxM' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "image": "data/tutorials/basics.jpg",
     "largeImage": "data/tutorials/basics.jpg"
   },
@@ -27,7 +27,7 @@
     "name": "basic2",
     "title": "Culinary Basics (Part 2)",
     "category": "tutorials",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "<iframe width='560' height='315' src='https://www.youtube.com/embed/1AxLzMJIgxM' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "image": "data/tutorials/basics.jpg",
     "largeImage": "data/tutorials/basics.jpg"
   },
@@ -36,7 +36,7 @@
     "title": "Culinary Basics (Part 3)",
     "category": "tutorials",
     "price": 9.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "<iframe width='560' height='315' src='https://www.youtube.com/embed/1AxLzMJIgxM' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "image": "data/tutorials/basics.jpg",
     "largeImage": "data/tutorials/basics.jpg"
   },
@@ -45,7 +45,7 @@
     "title": "Culinary Basics (Part 4)",
     "category": "tutorials",
     "price": 99.99,
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "<iframe width='560' height='315' src='https://www.youtube.com/embed/1AxLzMJIgxM' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
     "image": "data/tutorials/basics.jpg",
     "largeImage": "data/tutorials/basics.jpg"
   }

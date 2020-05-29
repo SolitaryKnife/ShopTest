@@ -3,7 +3,7 @@
     "name": "meetup",
     "title": "Join the Community Meetup",
     "category": "community",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "Pay your own meals",
     "image": "data/community/meetup.jpg",
     "largeImage": "data/community/meetup.jpg"
   },
@@ -11,7 +11,7 @@
     "name": "competition",
     "title": "Cooking Contest",
     "category": "community",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "We don't expect much",
     "image": "data/community/cookingcontest.jpg",
     "largeImage": "data/community/cookingcontest.jpg"
   },
@@ -19,15 +19,15 @@
     "name": "meetchef",
     "title": "Meet a Professional Chef personally",
     "category": "community",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "He is just a random person, actually",
     "image": "data/community/chef.jpg",
     "largeImage": "data/community/chef.jpg"
   },
   {
     "name": "sponsored",
-    "title": "Raid Shadow Legends (Sponsored)",
+    "title": "Raid Shadow Legends (Fake Sponsored)",
     "category": "community",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "It's bad",
     "image": "data/community/ads.jpg",
     "largeImage": "data/community/ads.jpg"
   },
@@ -35,7 +35,7 @@
     "name": "eating",
     "title": "Free Food",
     "category": "community",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "Don't expect to be healthy then",
     "image": "data/community/freefood.png",
     "largeImage": "data/community/freefood.png"
   },
@@ -43,7 +43,7 @@
     "name": "survey",
     "title": "Community Survey",
     "category": "community",
-    "description": "Healthy food yum yum<br><br><b>Ingredients</b><ul><li>Veggies</li><li>Dead animals</li><li>Fake meat</li></ul>",
+    "description": "This is for a good cause, I swear",
     "image": "data/community/survey.jpg",
     "largeImage": "data/community/survey.jpg"
   }
